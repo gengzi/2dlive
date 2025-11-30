@@ -1,0 +1,8 @@
+{
+  "name": "Gemini 2D Live Avatar",
+  "description": "A real-time, browser-based 2D digital human powered by Gemini Live API. Features reactive lip-sync and multimodal interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
